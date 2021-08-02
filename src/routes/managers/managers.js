@@ -22,7 +22,8 @@ export const managers = [
   //   "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   // },
 ]
-     export const managers = [
+     
+export const managers = [
    {
      "roster": 2,  // ID of the roster that the manager manages
      "name": "Gaston Sanders",
@@ -70,7 +71,8 @@ export const managers = [
   //   "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   // },
 ]
-     export const managers = [
+     
+export const managers = [
    {
      "roster": 4,  // ID of the roster that the manager manages
      "name": "Evan Davis",
@@ -118,7 +120,8 @@ export const managers = [
   //   "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   // },
 ]
-     export const managers = [
+     
+export const managers = [
    {
      "roster": 6,  // ID of the roster that the manager manages
      "name": "Josh Apple",
@@ -166,7 +169,8 @@ export const managers = [
   //   "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
   // },
 ]
-     export const managers = [
+     
+export const managers = [
    {
      "roster": 8,  // ID of the roster that the manager manages
      "name": "Alex Bonar",
